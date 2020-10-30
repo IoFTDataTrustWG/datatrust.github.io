@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+---
+title: Workshop: Data Sharing and Interoperability for Data Trusts
+---
+# Data Sharing and Interoperability for Data Trusts
 
-You can use the [editor on GitHub](https://github.com/IoFTDataTrustWG/datatrust.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The aim of this half-day virtual workshop is to bring together a group of interdisciplinary researchers, practitioners and policy makers to explore aspects related to the concept of data trust for agri-food from various angles. The discussion will be structured around plenary talks focusing on themes very relevant to realising building blocks necessary for constructing data trust models, followed by breakout sessions for further brainstorming about a specific research question.
+The overarching aim of a data trust model is to enable stakeholders, end users and other interested parties to share their data securely through trustworthy, transparent and reliable processes. This multifaceted approach concerns the use of various technologies, some more mature some others still in their infancy, to realise the development of underpinning technologies (both basic and applied research) to start building the components needed for establishing a data trust model.
 
-### Markdown
+In addition to investigating core technologies such as Blockchain, Machine Learning, Ontologies, Privacy preserving technologies, etc., one needs to also consider regulatory aspects, policy making and legal concerns. Therefore, our workshop is expected to touch upon both core technological issues preventing data trust models from being widely adopted, as well as issues about adoption, trust, and accountability towards enabling organisations to consider a data trust as part of their data sharing and interoperability strategies.A relatively recent <a href="https://royalsociety.org/-/media/policy/projects/privacy-enhancing-technologies/privacy-enhancing-technologies-report.pdf">report</a> from the Royal Society touches upon issues that are very relevant to our workshop’s themes (such as privacy preserving technologies).  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IoFTDataTrustWG/datatrust.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In order to investigate all of the above, we have put together the below agenda, which we hope will lead to fruitful discussions with the aim to come up with some ideas that can form components of an eventual implementation of a viable governance for data sharing and interoperability in data trusts.
